@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "In this repository I write unit tests in Jest.  I apply both the AAA and TDD approach to make the code more readable to other developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leehaney254/jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leehaney254/jest-test/issues"
+  },
+  "homepage": "https://github.com/leehaney254/jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
